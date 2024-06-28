@@ -53,7 +53,7 @@ public class ArrayQueue<T> implements InterfaceQueue<T> {
 
     public T dequeue() {
 
-        //checdk for these error conditions:
+        //check for these error conditions:
         //check if queue is empty
         if (queueCount == 0) {
 
@@ -97,9 +97,7 @@ public class ArrayQueue<T> implements InterfaceQueue<T> {
         String str = "FRONT[";
         for(int index = 0; index < queueCount; index++) {
             str += " " + items[index];
-
         }
         return str += "]BACK";
     }
-
 }   
