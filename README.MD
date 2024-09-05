@@ -27,7 +27,7 @@ This repository contains Java implementations of different data structures and a
 ### Singly Linked List (SinglyLinkedList):
 - Implementation of a singly linked list with operations for insertion, deletion, traversal, and managing the size of the singly linked list.
 
-### Dijkstra Algorithm:
+### Dijkstra Algorithm (DijkstraAlgorithm):
 - Implementation of a Dijkstra Algorithm that finds the shortest path between nodes in a weighted graph, computing the paths from a source.
 
 ## Usage:
