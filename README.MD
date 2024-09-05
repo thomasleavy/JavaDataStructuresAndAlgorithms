@@ -31,4 +31,8 @@ This repository contains Java implementations of different data structures and a
 Each Java file (`*.java`) can be compiled independently and run, to see the functionality of the data structure or algorithm. These examples are resources for understanding how to implement and use data structures and algorithms efficiently.
 
 ## Contributions:
+<<<<<<< HEAD
 Feel free to provide improvements, bug fixes, or more examples (e.g., bubble sort, maps, graphs, etc.) to enhance the value of this repository. Pull requests are welcome!
+=======
+Feel free to provide improvements, bug fixes, or more examples (i.e. maps, graphs, etc.) to enhance the value of this repository. Pull requests are welcome!
+>>>>>>> ea356edf5545e4e295765e659e184356a5537d2f

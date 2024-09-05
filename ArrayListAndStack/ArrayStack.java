@@ -67,7 +67,6 @@ public int reallocate() {
 
         return element;
     }
-
  }
 //the syntax for peek is very similar to pop
 public T peek() {
@@ -79,6 +78,6 @@ if (topIndex == 0) {
     //I'm only looking at the top value, I dont remove it from the stack, so I dont decrement topIndex "topindex--;"
     topIndex--;
     return element;
-}
-}
+        }
+    }
 }
