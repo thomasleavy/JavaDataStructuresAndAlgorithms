@@ -4,7 +4,7 @@
 
 This repository contains Java implementations of different data structures and algorithms. Each one shows a different concept. It is intended to show how these elements work and how they're implemented in Java.
 
-## Contents:
+## Contents: 
 
 ### ArrayList and Stack (ArrayListAndStack):
 - Implementation of a stack using an ArrayList for managing size.
